@@ -1,70 +1,48 @@
-# Getting Started with Create React App
+## Let's recreate your Portfolio
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Get started now by cloning :)
 
-## Available Scripts
+<img src="https://user-images.githubusercontent.com/43790152/171403666-468b63d9-52be-4ec6-9cdb-c08c0e9d18f3.png">
 
-In the project directory, you can run:
+<img src="https://user-images.githubusercontent.com/43790152/171403671-4e50f0a8-f73c-40f6-8628-547754afc2ef.png">
 
-### `npm start`
+<br>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+<div align="center">
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+[![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](#)
+[![GitHub Forks](https://img.shields.io/github/forks/saadhaxxan/Car_Game_Python_Pygame.svg?style=social&label=Fork&maxAge=2592000)](https://github.com/m-hamzashakeel/DevFolio/fork)
+[![GitHub Issues](https://img.shields.io/github/issues/saadhaxxan/Car_Game_Python_Pygame.svg?style=flat&label=Issues&maxAge=2592000)](https://github.com/m-hamzashakeel/DevFolio/issues)
+[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat&label=Contributions&colorA=red&colorB=black	)](#)
 
-### `npm test`
+</div>
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## 🧑‍💻 Devfolio
+Is a multi-platform portfolio for developers available for mobile, windows and web. Includes the following sections:
+- Home
+- About
+- Services
+- Portfolio
+- Contact
 
-### `npm run build`
+## 🔗 Useful links
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+🌐 Web App: https://mhmzdev.github.io/devfolio
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+📱 Android App: https://play.google.com/store/apps/details?id=com.hmz.folio
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+📙 Article: https://mhamzadev.medium.com/folio-responsive-portfolio-using-flutter-2-0-86ae3e6cce4f
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## 🔑 License
+- This project is licensed under the MIT License - see the [LICENSE](LICENSE.md) file for details
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## 🧑 Author
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+#### Muhammad Hamza
+[![LinkedIn Link](https://img.shields.io/badge/Connect-Hamza-blue.svg?logo=linkedin&longCache=true&style=social&label=Connect
+)](https://www.linkedin.com/in/mhmzdev)
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+You can also follow my GitHub Profile to stay updated about my latest projects:
 
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+[![GitHub Follow](https://img.shields.io/badge/Connect-Hamza-blue.svg?logo=Github&longCache=true&style=social&label=Follow)](https://github.com/m-hamzashakeel)
