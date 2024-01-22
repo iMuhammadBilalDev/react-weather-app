@@ -12,7 +12,8 @@ Weatherly is a modern, responsive Weather App built with React.js. It provides u
 
 ## Screenshots
 
-https://www.figma.com/file/biz900Z7btGBx5qOos1Nsp/Untitled?type=design&node-id=0%3A1&mode=design&t=CM12zXsmHZlPqvLI-1
+![Capturee](https://github.com/iMuhammadBilalDev/react-weather-app/assets/148322893/c0d2074f-2e20-4d3b-bd01-56ee830107aa)
+
 ## Live Demo
 
 Check out the live demo [here](#).
