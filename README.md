@@ -1,20 +1,26 @@
-# Weather App in React.js
+# Weatherly - React.js Weather App
 
-## Description
-A simple Weather App built with React.js that allows users to check the current weather conditions for a specific location.
+## Overview
+
+Weatherly is a modern, responsive Weather App built with React.js. It provides users with real-time weather information for any location worldwide. With a clean and intuitive interface, Weatherly offers a seamless experience for checking current weather conditions.
 
 ## Features
-- **Current Weather:** View real-time weather information, including temperature, humidity, wind speed, and description.
-- **Search Functionality:** Search for weather information for a specific city or location.
-- **Responsive Design:** Access the app seamlessly on various devices - desktop, tablet, or mobile.
+
+- **Current Weather:** Instantly access up-to-date weather details, including temperature, humidity, wind speed, and description.
+- **Location Search:** Effortlessly search for weather information in any city or location.
+- **Responsive Design:** Enjoy a consistent and user-friendly experience across desktop, tablet, and mobile devices.
 
 ## Screenshots
-Include screenshots or gifs of your Weather App to showcase its user interface and features.
 
-## Demo
-Provide a link to a live demo of your Weather App if available.
+![Weatherly App](/screenshots/weatherly-app.png)
+
+## Live Demo
+
+Check out the live demo [here](#).
 
 ## Installation
+
 1. Clone the repository:
+
    ```bash
-   git clone https://github.com/your-username/weather-app.git
+   git clone https://github.com/your-username/weatherly.git
