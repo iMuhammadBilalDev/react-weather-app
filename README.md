@@ -1,39 +1,20 @@
-## Let's recreate your Portfolio
+# Weather App in React.js
 
-Get started now by cloning :)
-Hello
+## Description
+A simple Weather App built with React.js that allows users to check the current weather conditions for a specific location.
 
+## Features
+- **Current Weather:** View real-time weather information, including temperature, humidity, wind speed, and description.
+- **Search Functionality:** Search for weather information for a specific city or location.
+- **Responsive Design:** Access the app seamlessly on various devices - desktop, tablet, or mobile.
 
-<br>
+## Screenshots
+Include screenshots or gifs of your Weather App to showcase its user interface and features.
 
-<div align="center">
+## Demo
+Provide a link to a live demo of your Weather App if available.
 
-[![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](#)
-[![GitHub Forks](https://img.shields.io/github/forks/saadhaxxan/Car_Game_Python_Pygame.svg?style=social&label=Fork&maxAge=2592000)](https://github.com/m-hamzashakeel/DevFolio/fork)
-[![GitHub Issues](https://img.shields.io/github/issues/saadhaxxan/Car_Game_Python_Pygame.svg?style=flat&label=Issues&maxAge=2592000)](https://github.com/m-hamzashakeel/DevFolio/issues)
-[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat&label=Contributions&colorA=red&colorB=black	)](#)
-
-</div>
-
-## 🧑‍💻 Weather-App
-Is a multi-platform portfolio for developers available for mobile, windows and web. Includes the following sections:
-- Home
-- About
-- Services
-- Portfolio
-- Contact
-
-## 🔗 Useful links
-
-🌐 Web App: https:/iMuhammadBilalDev/react-weather-app
-
-📱 Android App: https://play.google.com/store/apps/details?id=XYZ
-
-📙 Article: https://iMuhammadBilalDev.medium.com/folio-responsive-portfolio-using-flutter-2-0-86ae3e6cce4f
-
-
-## 🔑 License
-- This project is licensed under the MIT License - see the [LICENSE](LICENSE.md) file for details
-
-## 🧑 Author
-
+## Installation
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/weather-app.git
