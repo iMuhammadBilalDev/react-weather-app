@@ -44,12 +44,7 @@ You can also follow my GitHub Profile to stay updated about my latest projects:
 
 If you liked the repo then kindly support it by giving it a star ⭐!
 
-Copyright (c) 2020 MUHAMMAD BILAL
+Copyright (c) 2024MUHAMMAD BILAL
 
 
-## Installation
 
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/your-username/weatherly.git
