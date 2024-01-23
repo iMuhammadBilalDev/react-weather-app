@@ -31,8 +31,11 @@ Weatherly is a modern, responsive Weather App built with React.js. It provides u
 ## 🧑 Author
 
 #### Muhammad Bilal
+<a href="https://www.Bilal.dev"><img src="https://img.shields.io/badge/-www.Bilal.dev-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/imuhammadbilaldev"><img src="https://img.shields.io/badge/-@iMuhammadBilalDev-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-
+<a href="mailto:mbilalsoomroo@gmail.com"><img src="https://img.shields.io/badge/-mbilalsoomro@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://https://www.instagram.com/sahilsoomroo"><img src="https://img.shields.io/badge/-@iMuhammadBilalDev-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.facebook.com/bilal.soomro.9619"><img src="https://img.shields.io/badge/-@iMuhammadBilalDev-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 
 You can also follow my GitHub Profile to stay updated about my latest projects:
 
